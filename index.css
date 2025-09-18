@@ -62,7 +62,7 @@ body {
 .banner {
     width: 100%;
     margin: 0 auto;
-    background: url(../img/GE.jpg) no-repeat center center;
+    background: url(/personal/GE.jpg) no-repeat center center;
     height: 908px;
     text-align: start;
     line-height: 500px;
@@ -153,7 +153,7 @@ body {
 .ct {
     width: 2000;
     margin: 0 auto;
-    background: url(../img/IMG_20250909_082823.jpg) no-repeat center center;
+    background: url(/personal/IMG_20250909_082823.jpg) no-repeat center center;
     height: 908px;
     text-align: right;
     line-height: 1000px;
@@ -239,7 +239,7 @@ body {
 .new {
     width: 1860;
     margin: 0 auto;
-    background: url(../img/12.png) no-repeat center center;
+    background: url(/personal/12.png) no-repeat center center;
     height: 1000px;
     text-align: center;
     line-height: 1800px;
@@ -280,4 +280,5 @@ body {
 .ps {
     color: #d8d8e08f;
     font-size: 30px;
+
 }
