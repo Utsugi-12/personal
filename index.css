@@ -1,0 +1,283 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+body {
+    background: #fff;
+}
+
+.header {
+    height: 80px;
+    width: 100%;
+    background: #7c2525f8;
+    border-bottom: 1px solid #000000;
+}
+
+.nav-box {
+    max-width: 1680px;
+    margin: 0 auto;
+    display: flex;
+    height: 40px;
+    padding-top: 20px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 30px;
+    color: #fff;
+}
+
+.f {
+    padding-left: 50px;
+    text-shadow: 0 0 50px rgb(255, 255, 255);
+}
+
+.nav-box .nav {
+    display: flex;
+    font-size: 23px;
+    color: #555;
+    padding-right: 80px;
+    text-shadow: 0 0 40px rgb(255, 255, 255);
+}
+
+.header .nav li {
+    padding-left: 30px;
+}
+
+.nav-box .nav a.on,
+.nav-box .nav a:hover {
+    color: #fff;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #fff;
+}
+
+.banner {
+    width: 100%;
+    margin: 0 auto;
+    background: url(../img/GE.jpg) no-repeat center center;
+    height: 908px;
+    text-align: start;
+    line-height: 500px;
+    color: #ffffff78;
+    font-size: 70px;
+    text-shadow: 0 0 40px rgb(98, 0, 255);
+    padding-left: 60px;
+}
+
+.introduce {
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px 0;
+    background: #fff;
+}
+
+.introduce-tit {
+    line-height: 30px;
+    margin-right: 23px;
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 30px;
+    color: #670909b8;
+    padding-top: 40px;
+}
+
+.introduce-main {
+    display: flex;
+}
+
+.introduce-main .l {
+    margin-right: 100px;
+}
+
+.introduce .l img {
+    border-radius: 50%;
+}
+
+.introduce-main .r {
+    line-height: 23px;
+    font-size: 16px;
+    color: #555;
+}
+
+.skill-box {
+    display: flex;
+    line-height: 23px;
+    font-size: 20px;
+    color: #555;
+}
+
+.skill {
+    padding-left: 150px;
+}
+
+.icon {
+    margin-right: 100px;
+}
+
+.diedline {
+    width: 100%;
+    height: 5px;
+    border-radius: 5px;
+    background: #370a0dc7;
+    align-items: center;
+}
+
+.fanal {
+    padding-left: 150px;
+    font-size: 30px;
+}
+
+.foot-box {
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.header1 {
+    height: 80px;
+    width: 100%;
+    background: #7c2525f8;
+    border-bottom: 1px solid #000000;
+}
+
+.ct {
+    width: 2000;
+    margin: 0 auto;
+    background: url(../img/IMG_20250909_082823.jpg) no-repeat center center;
+    height: 908px;
+    text-align: right;
+    line-height: 1000px;
+    color: #00ff1e9a;
+    font-size: 80px;
+    text-shadow: 0 0 40px rgb(0, 255, 68);
+    padding-right: 80px;
+}
+
+.fanal2 {
+    padding-left: 0px;
+    font-size: 30px;
+    color: #370a0ddf;
+}
+
+.l2 {
+    padding-left: 20px;
+    padding-top: 0px;
+    font-size: 25px;
+    color: #370a0ddf;
+}
+
+.png {
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header2 {
+    height: 80px;
+    width: 100%;
+    background: #b06b2bc6;
+    border-bottom: 1px solid #000000;
+}
+
+.nav-box2 {
+    max-width: 1680px;
+    margin: 0 auto;
+    display: flex;
+    height: 40px;
+    padding-top: 20px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 30px;
+    color: #fff;
+}
+
+.f2 {
+    padding-left: 50px;
+    text-shadow: 0 0 50px rgb(255, 255, 255);
+}
+
+.nav-box2 .nav2 {
+    display: flex;
+    font-size: 23px;
+    color: #555;
+    padding-right: 80px;
+    text-shadow: 0 0 40px rgb(255, 255, 255);
+}
+
+.header2 .nav2 li {
+    padding-left: 30px;
+}
+
+.nav-box2 .nav2 a.on,
+.nav-box2 .nav2 a:hover {
+    color: #fff;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #fff;
+}
+
+.new {
+    width: 1860;
+    margin: 0 auto;
+    background: url(../img/12.png) no-repeat center center;
+    height: 1000px;
+    text-align: center;
+    line-height: 1800px;
+    color: #0b1cd5ad;
+    font-size: 70px;
+    text-shadow: 0 0 40px rgb(25, 0, 255);
+    padding-right: 80px;
+}
+
+.main-work {
+    width: 1900px;
+    margin: 0px auto;
+    background: #000000;
+}
+
+.flex-box {
+    width: 1700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 0px;
+}
+
+.block {
+
+    overflow: hidden;
+    position: relative;
+}
+
+.diedline2 {
+    width: 100%;
+    height: 5px;
+    border-radius: 5px;
+    background: #1114d5c7;
+    align-items: center;
+}
+
+.ps {
+    color: #d8d8e08f;
+    font-size: 30px;
+}
